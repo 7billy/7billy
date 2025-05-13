@@ -7,9 +7,12 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=7billy&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
-</div>
+<a href="https://github.com/7billy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=7billy&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/7billy/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7billy&show_icons=true&theme=radical" />
+</a>
 
 ---
 
